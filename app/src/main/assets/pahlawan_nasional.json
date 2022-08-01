@@ -1,0 +1,40 @@
+{
+    "daftar_pahlawan": [
+        {
+            "nama": "Alimin ",
+            "nama2": "Alimin bin Prawirodirdjo",
+            "kategori": "Pahlawan Kemerdekaan Nasional ",
+            "asal": "Jawa Tengah",
+            "lahir": "1889   di Solo, Jawa Tengah, Indonesia",
+            "usia": "75 tahun",
+            "gugur": "Rabu Pahing, 24 Juni 1964   di Jakarta, Indonesia",
+            "lokasimakam": "Taman Makam Pahlawan (TMP) Kalibata, Jakarta.",
+            "history": "Tokoh pergerakan kemerdekaan Indonesia serta tokoh komunis Indonesia",
+            "img": "https://image.ibb.co/eaqZfe/alimin.jpg"
+          },
+          {
+            "nama": "Amir Hamzah ",
+            "nama2": "Tengkoe Amir Hamzah Pangeran Indra Poetera",
+            "kategori": "Pahlawan Nasional",
+            "asal": "Sumatera Utara",
+            "lahir": "Selasa, 28 Februari 1911 di Tanjung Pura, Langkat, Sumatera Utara",
+            "usia": "35 tahun",
+            "gugur": "Rabu Legi, 20 Maret 1946 di Kwala Begumit, Binjai, Langkat, Sumatera Utara",
+            "lokasimakam": "Kompleks Masjid Azizi, di Tanjungpura, Kabupaten Langkat, Sumatera Utara",
+            "history": "Sastrawan (Penyair) dan sering disebut Raja Penyair Zaman Pujangga Baru. Satu-satunya Penyair Indonesia berkelas internasional pada era pra-Revolusi Nasional Indonesia.Lahir dari lingkungan keluarga bangsawan Melayu di Kesultanan Langkat membuat Amir Hamzah akrab dalam suasana alam sastra kebudayaan Melayu. Agaknya, lingkungan inilah yang mempengaruhi minat Amir Hamzah pada dunia sastra, terutama sastra Melayu. Amir Hamzah adalah seorang sastrawan pra Indonesia yang oleh sastrawan periode Indonesia seperti HB Jassin dikelompokkan dalam Angkatan Pujangga Baru. Meskipun berasal dari kalangan bangsawan berkultur Melayu, tetapi tidak seluruh corak sastra Amir Hamzah dipengaruhi oleh sastra Melayu. Memasuki usia remaja, Amir Hamzah menyelesaikan masa belajarnya di Jawa, di sekolah menengah (MULO) Medan dan pindah di MULO Jakarta, Aglemeene Middelbare School (AMS) jurusan Sastra Timur di Solo, lantas kembali lagi ke Jakarta di Sekolah Tinggi Hukum. Semasa studi di AMS Solo, Amir Hamzah menulis sebagian besar sajak-sajak pertamanya. Latar pendidikan sekolah di Tanjung Pura yang menggunakan bahasa Belanda dan sekolah menengah di Jawa serta kegiatan pergerakan di Solo membuat horison pengetahuan Amir Hamzah semakin kaya dengan perpaduan kebudayaan modern (Eropa), kebudayaan Jawa, bahkan secara umum kebudayaan Asia. Horison perjumpaan kebudayaan dalam diri Amir Hamzah dapat dilihat dari karya Buah Rindu (ditulis 1928-1935) yang memadukan syair Melayu dalam sajak Eropa. Tentu saja ini penilaian yang bersifat mimetik. Penilaian mimetik yaitu pendekatan kritik sastra dalam pandangan semesta pemikiran yang melingkupi kelahiran sebuah sastra (Teeuw, 1984:50). Amir Hamzah wafat di Kuala Begumit dalam suatu tragedi kematian yang tragis pada tanggal 20 Maret 1946. Amir Hamzah meninggal dunia saat berusia 35 tahun. Sebagian peneliti menyebut kematian Amir Hamzah sebagai korban revolusi sosial di era awal kemerdekaan. Amir Hamzah dimakamkan di pemakaman Mesjid Azizi, Tanjung Pura, Langkat. Ia diangkat menjadi Pahlawan Nasional Indonesia berdasarkan SK Presiden RI Nomor 106/tahun 1975 , tanggal 3 November 1975. Karena hasil karyanya tersebut maka Pemerintah Kabupaten Langkat membangun Monumen Tengku Amir Hamzah guna mengenang segala jasa beliau terhadap daerah asalnya sendiri.",
+            "img": "https://image.ibb.co/hKOn0e/amir_hamzah.jpg"
+          },
+          {
+            "nama": "Andi Djemma",
+            "nama2": "Andi Djemma",
+            "kategori": "Pahlawan Nasional",
+            "asal": "Sulawesi Selatan",
+            "lahir": "Selasa, 15 Januari 1901   di Palopo, Sulawesi Selatan",
+            "usia": "65 tahun",
+            "gugur": "Selasa, 23 Februari 1965   di Makassar, Sulawesi Selatan",
+            "lokasimakam": "Taman Makam Pahlawan Panaikang, Makassar, Sulawesi Selatan",
+            "history": "Raja (Datu) Luwu. Aktifis Kemerdekaan, memimpin Perlawanan Semesta Rakyat Luwu terhadap Belanda selama Revolusi Nasional.Menjelang kemerdekaan Indonesia pada 15 Agustus 1945, Andi Djemma memimpin Gerakan Soekarno Muda dan memimpin Perlawanan Semesta Rakyat Luwu pada 23 Januari 1946. Tanggal itu sekarang diperingati sebagai Hari Perlawanan Rakyat Semesta.Pada 5 Oktober 1945, Andi Djemma sempat mengultimatum pihak Sekutu agar segera melucuti tentaranya dan kembali ke tangsinya di Palopo. Ultimatum itu dibalas Gubernur Jenderal Belanda, Van Mook, dengan ultimatum juga. Andi Djemma yang mempunyai lima putera itu baru tertangkap Belanda pada 3 Juli 1946 dan diasingkan ke Ternate. Ia akhirnya meninggal di Makassar pada 23 Februari 1965.",
+            "img": "https://image.ibb.co/nM5d6K/andi_djemma.jpg"
+          }
+    ]
+  }
