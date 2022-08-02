@@ -4,11 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_first.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_fourth.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_second.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_third.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/row_animal_item.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/row_contact_item.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/row_item_chapter.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/row_item_pahlawan.xml" value="0.19610507246376813" />
       </map>
     </option>
