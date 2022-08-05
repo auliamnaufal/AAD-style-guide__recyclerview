@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.auliamnaufal.recyclerview.databinding.ActivityMainBinding
+import com.auliamnaufal.recyclerview.fifthrecyclerview.FifthActivity
 import com.auliamnaufal.recyclerview.firstrecyclerview.FirstActivity
 import com.auliamnaufal.recyclerview.fourthrecyclerview.FourthActivity
 import com.auliamnaufal.recyclerview.secondrecyclerview.SecondActivity
@@ -33,6 +34,8 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent(this, FourthActivity::class.java))
         }
 
-
+        binding.btnFifthRecyclerView.setOnClickListener {
+            startActivity(Intent(this, FifthActivity::class.java))
+        }
     }
 }

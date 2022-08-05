@@ -37,23 +37,17 @@ class ThirdActivity : AppCompatActivity() {
         val stringContent = getJSONObject()
 
         try {
-            val jsonArray = JSONArray(stringContent)
 
+            val jsonObject = JSONObject(stringContent)
+            val jsonArray = jsonObject.getJSONArray("daftar_pahlawan")
             for (i in 0 until jsonArray.length()) {
-                val jsonObject = jsonArray.getJSONObject(i)
-                val jsonItemObject = jsonObject.getJSONObject("batters")
-                val jsonArrayItem = jsonItemObject.getJSONArray("batter")
-
-                for (j in 0 until jsonArrayItem.length()) {
-                    val jsonObjectData = jsonArrayItem.getJSONObject(j)
-                    val dataApi = ModelPahlawan()
-                    dataApi.nama = jsonObjectData.getString("id")
-                    dataApi.namaLengkap = jsonObjectData.getString("type")
-                    dataApi.image = jsonObjectData.getString("type")
-                    modelPahlawan.add(dataApi)
-                }
+                val jsonObjectData = jsonArray.getJSONObject(i)
+                val dataApi = ModelPahlawan()
+                dataApi.nama = jsonObjectData.getString("nama")
+                dataApi.namaLengkap = jsonObjectData.getString("nama2")
+                dataApi.image = jsonObjectData.getString("img")
+                modelPahlawan.add(dataApi)
             }
-
 
             pahlawanAdapter = PahlawanAdapter(modelPahlawan)
             binding.rvListPahlawan.adapter = pahlawanAdapter
